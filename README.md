@@ -1,2 +1,2 @@
 # algorithmic-crypto-bot
-High-frequency trading (HFT) automation engine using XGBoost and Selenium for market prediction
+automation engine using XGBoost and Selenium for market prediction
